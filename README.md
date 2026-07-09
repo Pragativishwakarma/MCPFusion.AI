@@ -11,7 +11,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![AI](https://img.shields.io/badge/Generative_AI-Assistant-purple?style=for-the-badge)
 
-<//Users/pragativisghwakarma/Desktop/Screenshot\ 2026-07-10\ at\ 12.33.18 AM.png p>
+</p>
 
 ---
 
@@ -124,7 +124,8 @@ The project demonstrates how modern AI systems can orchestrate multiple services
 
 > The client initializes the Groq LLM, connects to all MCP servers, and automatically discovers available tools.
 
-*(Insert Screenshot 1 here)*
+*<img width="485" height="746" alt="Screenshot 2026-07-10 at 12 32 57 AM" src="https://github.com/user-attachments/assets/f2795c15-41ee-4a85-8c5b-e0f6623bb85b" />
+*
 
 ---
 
@@ -132,7 +133,8 @@ The project demonstrates how modern AI systems can orchestrate multiple services
 
 > Users interact with a single AI assistant that automatically selects the appropriate MCP server(s) to answer natural language questions.
 
-*(Insert Screenshot 2 here)*
+*![Uploading Screenshot 2026-07-10 at 12.33.18 AM.png…]()
+*
 
 ---
 
