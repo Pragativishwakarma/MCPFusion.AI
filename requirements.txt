@@ -1,0 +1,15 @@
+langchain-core>=1.0.0
+langchain-groq>=1.0.0
+langchain-mcp-adapters>=0.3.0
+langgraph>=1.2.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+pymysql>=1.1.0
+mcp>=1.0.0
+
+langchain-core>=0.0.13
+langchain-community>=0.0.1
+langchain-groq>=0.0.1
+langchain-mcp-adapters>=0.0.1
+python-dotenv==1.0.0
+requests==2.31.0
