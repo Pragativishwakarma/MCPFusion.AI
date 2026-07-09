@@ -11,7 +11,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![AI](https://img.shields.io/badge/Generative_AI-Assistant-purple?style=for-the-badge)
 
-</p>
+<//Users/pragativisghwakarma/Desktop/Screenshot\ 2026-07-10\ at\ 12.33.18 AM.png p>
 
 ---
 
