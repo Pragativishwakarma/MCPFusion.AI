@@ -134,6 +134,7 @@ The project demonstrates how modern AI systems can orchestrate multiple services
 > Users interact with a single AI assistant that automatically selects the appropriate MCP server(s) to answer natural language questions.
 
 *![Uploading Screenshot 2026-07-10 at 12.33.18 AM.png…]()
+
 *
 
 ---
